@@ -1,10 +1,5 @@
 # Image Inpainting via Generative Multi-column Convolutional Neural Networks
 
-by [Yi Wang](https://shepnerd.github.io/), [Xin Tao](http://www.xtao.website), [Xiaojuan Qi](https://xjqi.github.io), [Xiaoyong Shen](http://xiaoyongshen.me/), [Jiaya Jia](http://www.cse.cuhk.edu.hk/leojia/).
-
-## Base Paper
-This repository is for the NeurIPS 2018 paper, '[Image Inpainting via Generative Multi-column Convolutional Neural Networks](http://papers.nips.cc/paper/7316-image-inpainting-via-generative-multi-column-convolutional-neural-networks.pdf)'.
-
 ## Prerequisites
 - Python3.5 (or higher)
 - Tensorflow 1.4 (or later versions, excluding 2.x) with NVIDIA GPU or CPU
